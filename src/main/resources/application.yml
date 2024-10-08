@@ -1,0 +1,11 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://13.232.132.3:3306/MYSQLDATABASE_ROOT
+    username: sachin19927
+    password: Sachin.hs
+server:
+  port: 9091
+  
